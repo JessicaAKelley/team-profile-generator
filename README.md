@@ -3,6 +3,13 @@
 ## Description
 The Team Profile Generator uses Node.js to take in command line arguments and generate an HTML file which displays team member information. The team member information is received from a series of prompts/questions the user must answer.
 
+## Table of Contents
+* [Technologies](#technologies)
+* [Installation](#installation)
+* [Test](#test)
+* [Demonstration](#demonstration)
+* [Questions](#questions)
+
 ## Technologies
 - NPM
 - Inquirer
