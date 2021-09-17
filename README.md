@@ -9,7 +9,6 @@ The Team Profile Generator uses Node.js to take in command line arguments and ge
 * [Technologies](#technologies)
 * [Installation](#installation)
 * [Test](#test)
-* [Demonstration](#demonstration)
 * [Questions](#questions)
 
 ## Technologies
@@ -26,11 +25,8 @@ Once the repository is downloaded or cloned, be sure to cd into the repository a
 ## Test
 Following installation, type "npm run test" at the command line to confirm whether the tests pass or fail.
 
-## Demonstration
-Check out a [video demonstration](link).
-
 ## Questions
-For any questions, comments, or suggestions, I can be reached at kelleyajessica@gmail.com
+For any questions, comments, or suggestions, I can be reached at kelleyajessica@gmail.com.
 <br>
 <br>
 Check out more of my projects here: [https://github.com/JessicaAKelley](https://github.com/JessicaAKelley)
